@@ -1,5 +1,9 @@
 ## pi-zero-adsb-tracker
 
+![Status](https://img.shields.io/badge/Status-Awaiting%20Hardware-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Zero%20WH-red?style=for-the-badge&logo=raspberry-pi)
+![Frequency](https://img.shields.io/badge/Frequency-1090%20MHz-blue?style=for-the-badge)
+
 
 A lightweight, low-power ADS-B flight tracker built using a Raspberry Pi Zero WH and an RTL-SDR receiver. This station tracks real-time aircraft data (1090 MHz) over Greece and visualizes it on a local map.
 
