@@ -23,7 +23,11 @@ Here is the exact hardware bill of materials (BOM) used for this build:
 
 ## 🚀 Software Roadmap
 
-- [ ] **Phase 1:** Flash Raspberry Pi OS (Lite) and configure headless SSH / Wi-Fi.
+- [ ] **Phase 1:**
+- [ ] **Phase 2:**
+- [ ] **Phase 3:**
+- [ ] **Phase 4:**
+- [ ] **Phase 5:**
 
 ---
 
