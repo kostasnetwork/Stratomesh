@@ -74,41 +74,10 @@ The hardware used for this build:
 
 ---
 
-### Phase 4: Optimization
-
-- [ ] Improve antenna setup
-- [ ] Optimize SDR settings
-- [ ] Reduce power consumption
-- [ ] Improve enclosure design
-
----
-
-### Phase 5: Advanced Features
-
-- [ ] Aircraft data logging
-- [ ] Historical flight database
-- [ ] Remote monitoring
-- [ ] Network data sharing
-
----
-
 ## 📸 Gallery
 
 Images coming soon.
 
----
-
-## 🎯 Project Goals
-
-The goal of this project is to gain practical experience in:
-
-- Embedded systems
-- Radio communication
-- Linux administration
-- Hardware prototyping
-- Software development
-
-This project explores the connection between computer science and physical hardware systems.
 
 ---
 
