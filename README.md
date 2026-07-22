@@ -1,6 +1,6 @@
 ## pi-zero-adsb-tracker
 
-![Status](https://img.shields.io/badge/Status-Awaiting%20Hardware-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Hardware%20Arrived-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Zero%20WH-red?style=for-the-badge&logo=raspberry-pi)
 ![Frequency](https://img.shields.io/badge/Frequency-1090%20MHz-blue?style=for-the-badge)
 
