@@ -77,6 +77,12 @@ The hardware used for this build:
 ## 📸 Gallery
 
 ![image alt](https://github.com/kostasfushi/pi-zero-adsb-tracker/blob/main/755450811_2136416323883663_8306130001660024014_n.jpg?raw=true)
+![image alt](https://github.com/kostasfushi/pi-zero-adsb-tracker/blob/main/752698817_1770345554314647_7816783995559920293_n.jpg?raw=true)
+![image alt](https://github.com/kostasfushi/pi-zero-adsb-tracker/blob/main/752242280_1552064749975362_435500799514876486_n.jpg?raw=true)
+![image alt](https://github.com/kostasfushi/pi-zero-adsb-tracker/blob/main/751818705_1035598502501063_5981504507085446701_n.jpg?raw=true)
+![image alt](https://github.com/kostasfushi/pi-zero-adsb-tracker/blob/main/751468904_1015157827975741_263329855590828487_n.jpg?raw=true)
+![image alt](https://github.com/kostasfushi/pi-zero-adsb-tracker/blob/main/753247147_1580903500219084_7995678557105300992_n.jpg?raw=true)
+
 
 ---
 
