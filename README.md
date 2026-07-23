@@ -97,3 +97,9 @@ Software:
 - ADS-B decoding software
 - Networking tools
 - Data visualization tools
+
+---
+
+## 🔜 Soon to come
+
+-Full integration with a pi pico 2w for the sole purpose of locating rare types of planes
