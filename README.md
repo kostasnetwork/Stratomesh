@@ -58,18 +58,18 @@ The hardware used for this build:
 
 ### Phase 2: Software Installation
 
-- [ ] Install operating system
-- [ ] Configure RTL-SDR drivers
-- [ ] Install ADS-B decoding software
-- [ ] Test aircraft reception
+- [x] Install operating system
+- [x] Configure RTL-SDR drivers
+- [x] Install ADS-B decoding software
+- [x] Test aircraft reception
 
 ---
 
 ### Phase 3: Tracking System
 
-- [ ] Create local aircraft map
-- [ ] Display real-time aircraft data
-- [ ] Improve user interface
+- [x] Create local aircraft map
+- [x] Display real-time aircraft data
+- [x] Improve user interface
 
 ---
 
