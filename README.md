@@ -45,7 +45,7 @@ The hardware used for this build:
 
 ---
 
-## 💻 Software Roadmap
+## 💻 Roadmap
 
 ### Phase 1: Hardware Setup ✅
 
