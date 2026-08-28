@@ -91,6 +91,8 @@ Hardware:
 - Raspberry Pi Zero WH
 - RTL-SDR
 - ADS-B 1090 MHz
+- Usb c to usb cable
+- OTG Cable
 
 Software:
 - Linux
